@@ -1,0 +1,28 @@
+div{
+       background-color:aqua;
+       display:inline block;
+}
+.box1{
+     background-color:pink;
+     width:500px;
+     height:500px;
+}
+.box2{
+     background-color:yellow;
+     width:500px;
+     height:500px;}
+.box3{
+     background-color:pink;
+     width:500px;
+     height:500px;}
+.box4{
+      background-color:yellow;
+      width:500px;
+     height:500px;}
+
+.box5{
+      position:fixed;
+      top:400px;
+      left:1000px;
+      right:;
+}
